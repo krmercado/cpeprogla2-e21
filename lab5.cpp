@@ -138,7 +138,7 @@ main ()
 		cout<<setw(10)<<fixed<<setprecision(2)<<it[x].price[y]<<"\t"<<it[x].quan[y]<<endl;
 		pr+=it[x].price[y]*it[x].quan[y];
 		}
-		cout<<setw(70)<<fixed<<setprecision(2)<<"Total Price: "<<sum<<endl;
+		cout<<setw(70)<<fixed<<setprecision(2)<<"Total Price: "<<pr<<endl;
 		z++;
 	}
 	
