@@ -1,3 +1,4 @@
+//Mercado, Kristine Dyan
 #include <iostream>
 #include <cmath>
 #include <stdlib.h>
