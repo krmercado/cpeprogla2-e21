@@ -1,3 +1,4 @@
+//Mercado, Kristine Dyan R.
 #include <iostream>
 using namespace std;
 
